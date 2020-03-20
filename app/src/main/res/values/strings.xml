@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlteraNomeBalanca</string>
+    <string name="texto_titulo_lista">LISTA DE APARELHOS BLUETOOTH</string>
+    <string name="texto_sair">SAIR</string>
+    <string name="texto_nome">DIGITE O NOME DO APARELHO:</string>
+    <string name="texto_padrao_cancelar">CANC.</string>
+    <string name="texto_padrao_alterar">ALTERAR</string>
+</resources>
